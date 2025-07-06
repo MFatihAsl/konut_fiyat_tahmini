@@ -1,3 +1,5 @@
+### Uygulama linki: https://konutfiyattahmini-cfb3yjuwdurcelgadhp7sw.streamlit.app/
+---
 # 🏡 Konut Fiyat Tahmin Sistemi
 
 ## 📌 Proje Tanıtımı
